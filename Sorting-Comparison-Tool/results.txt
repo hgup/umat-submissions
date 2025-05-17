@@ -1,0 +1,34 @@
+Sorting Algorithm Comparison Tool
+
+            Array Sizes
+Algorithms         100      1000     10000    100000
+Bubble Sort	  0.000022	  0.001539	  0.169440	 24.760854
+Select Sort	  0.000011	  0.000740	  0.070914	  8.654360
+Insert Sort	  0.000007	  0.000466	  0.047495	  5.977095
+Shell Sort	  0.000005	  0.000081	  0.001243	  0.020194
+Merge Sort	  0.000007	  0.000086	  0.001938	  0.016310
+Heap Sort	  0.000007	  0.000105	  0.001464	  0.023204
+Quick Sort	  0.000009	  0.000070	  0.000782	  0.022267
+Array Type: 1 (Randomly Generated)
+
+            Array Sizes
+Algorithms         100      1000     10000    100000
+Bubble Sort	  0.000014	  0.001103	  0.117356	 13.800023
+Select Sort	  0.000010	  0.000741	  0.070083	  8.081594
+Insert Sort	  0.000003	  0.000167	  0.016989	  1.917620
+Shell Sort	  0.000004	  0.000066	  0.001061	  0.015377
+Merge Sort	  0.000007	  0.000056	  0.000687	  0.008370
+Heap Sort	  0.000008	  0.000097	  0.001294	  0.015866
+Quick Sort	  0.000005	  0.000028	  0.000312	  0.003752
+Array Type: 2 (Partially Sorted (80%))
+
+            Array Sizes
+Algorithms         100      1000     10000    100000
+Bubble Sort	  0.000045	  0.001967	  0.190468	 19.523557
+Select Sort	  0.000010	  0.000728	  0.074384	  8.617199
+Insert Sort	  0.000013	  0.001131	  0.096382	 10.201468
+Shell Sort	  0.000003	  0.000032	  0.000449	  0.005865
+Merge Sort	  0.000005	  0.000049	  0.000584	  0.007033
+Heap Sort	  0.000008	  0.000093	  0.001170	  0.014016
+Quick Sort	  0.000011	  0.000025	  0.000211	  0.002660
+Array Type: 3 (Reverse Sorted)
