@@ -1,0 +1,7 @@
+211214: https://github.com/Ginzura/UMAT-606_Mini_Project
+211206: https://github.com/SaiSarath08/Hospital-Management-System-using-C
+211207: https://github.com/saiyashwanthc/Quiz-in-C
+211216: https://github.com/RamSaiDeep/211216_mini_project
+211203: https://github.com/SpgStark/Sorting-Comparison-Tool
+211201: https://github.com/kethan-git/C-Programming
+211209: https://github.com/Kasyapsatya/Numerical-methods-in-C

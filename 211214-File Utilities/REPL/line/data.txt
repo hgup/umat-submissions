@@ -1,0 +1,20 @@
+hi
+hi
+
+xxx
+Basic Input Output, String, File handling
+
+Logic to replace specific line in a text file
+Step by step descriptive logic to replace specific line with another in a text file.
+
+Open source file in read mode, store its reference to fPtr.
+Create and open a temporary file with name replace.tmp, store its reference to fTemp.
+Input line number to replace in file from user. Store it in some variable say line.
+Input new line from user to replace with, store it in newline.
+Initialize a count variable with 0.
+Read a line from file and store it in buffer.
+Increment count by 1.
+If count == line, then current line should be replaced with newline. Means if (count == 0) then write newline to fTemp, otherwise write buffer to fTemp.
+Repeat step 6-8 till end of file.
+Finally close all files.
+Delete the original source file and rename temporary fTemp file path as of source file.

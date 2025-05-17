@@ -1,0 +1,15 @@
+Type,Question,Option 1,Option 2,Option 3,Option 4,Correct Answer,Difficulty
+1,What is the capital of italy?, Paris,London,Rome,Madrid,a,3
+1,"Who wrote the famous play ""Hamlet""?",William Shakespeare,Charles Dickens,Jane Austen,F. Scott Fitzgerald,a,4
+1,What is the chemical symbol for water?,O2,CO2,H2O,H2SO4,c,2
+1,What is the largest planet in our solar system?,Earth,Jupiter,Mars,Saturn,b,3
+1,"Who is the author of ""To Kill a Mockingbird""?",Harper Lee,J.K. Rowling,Ernest Hemingway,Mark Twain,a,5
+1,What is the powerhouse of the cell?,Nucleus,Mitochondria,Golgi Apparatus,Endoplasmic Reticulum,b,3
+1,"Which planet is known as the ""Red Planet""?",Venus,Jupiter,Mars,Mercury,c,3
+1,Who painted the Mona Lisa?,Leonardo da Vinci,Vincent van Gogh,Pablo Picasso,Michelangelo,a,2
+1,What is the main component of air?,Oxygen,Nitrogen ,Carbon Dioxide ,Hydrogen,b,1
+2,Earth is flat,,,,,FALSE,2
+2,Delhi is capital of West Bengal,,,,,FALSE,2
+2,Delhi is the capital of India,,,,,TRUE,3
+3,.......... is the capital of Italy,,,,,Rome,4
+2,India is also known as bharath,,,,,FALSE,5
